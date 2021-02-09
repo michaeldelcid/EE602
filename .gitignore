@@ -1,1 +1,6 @@
-#
+# Do not push *.aux & *.log files
+
+*.aux 
+*.log
+
+

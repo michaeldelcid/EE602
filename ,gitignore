@@ -1,0 +1,4 @@
+# Ignore *.aux & *.log files
+
+*,aux
+*.log
